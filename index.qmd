@@ -1,0 +1,54 @@
+---
+title: "CP-LEADS Research Project"
+author: "Rafael Perez & Abby Chung"
+date: today
+format:
+  html:
+    toc: true
+    code-fold: true
+    theme: cosmo
+---
+
+## Introduction
+
+Welcome to the CP-LEADS Quarto document.
+
+This document presents our research, etc etc
+
+## Research Overview
+
+Add a brief description of your research project here.
+
+## Research Question
+
+**How does [insert your research topic] affect [insert population or outcome]?**
+
+## Data and Methods
+
+Describe:
+
+- The dataset
+- The participants
+- The research method
+- The variables examined
+- The analysis performed
+
+## Findings
+
+Add your major findings here.
+
+### Key Finding 1
+
+Describe your first important result.
+
+### Key Finding 2
+
+Describe your second important result.
+
+## Conclusion
+
+Summarize what the results mean and why they matter.
+
+## References
+
+Add your references here.
